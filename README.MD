@@ -5,4 +5,5 @@ ola!! bem vindo ao meu livro de receitas
 
 
 * strogonoff de frango
-* pave
+* pavê
+* bolo de cenoura
